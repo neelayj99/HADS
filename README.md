@@ -1,1 +1,1 @@
-# HADS
+A financial model using HADS (Housing and Affordability Data System) for American Houses to find independent variables significant to Market Value of the house. The project involved filtering and cleaning the data set with more than 300k+ rows and 99 columns to find 15 variables contributing to Market Value using statistical concepts of Confidence Interval and Hypothesis Testing. The project also involved building a regression model for predicting Market Value of houses in 2013 using housing data of 2011.
